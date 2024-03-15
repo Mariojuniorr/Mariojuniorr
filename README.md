@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/6a9470f3-679e-4bb5-b911-5a74c1eeea0d" width="150px" style="margin-right: 20px;">It's me mar.io!
+    <img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/0c7c1cb6-1ed5-405b-ab4f-a38da62e06da" />
 </h1>
 
 <h2>About me</h2>
