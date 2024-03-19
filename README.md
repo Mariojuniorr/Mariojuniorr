@@ -1,9 +1,11 @@
-<h1 style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/0c7c1cb6-1ed5-405b-ab4f-a38da62e06da" />
+<h1>
+    <img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/0c7c1cb6-1ed5-405b-ab4f-a38da62e06da" width="150px" />
 </h1>
 
 <h2>About me</h2>
-<p>My name is Mário Júnior, I was born in Brazil and I am enthusiastic about becoming a programmer. I like to develop software and explore new technologies to solve problems. I have experience with payment acquirers/operators.</p>
+<p>My name is Mário Júnior, I was born in Brazil and I am enthusiastic about becoming a programmer. I like to develop software and explore new technologies to solve problems. </p>
+
+<!-- I have experience with payment acquirers/operators. -->
 
 <h2>My desires</h2>
 <ul>
@@ -13,15 +15,13 @@
 
 <h2>Toolkit</h2>
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70px"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/>
 </div>
 
 <h2>Find me</h2>
-<ul>
     <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="50px"/></a>
-    <a href="mailto:marioluciosantosjunior@outlook.com"><img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/14de6b39-654b-4293-b799-e595b22aeda1" width="50px"/></a>
-</ul>
+    <a href="mailto:marioluciosantosjunior@outlook.com"><img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/bcd83eb0-d642-45b2-90de-ef433dcd512b"/></a>
