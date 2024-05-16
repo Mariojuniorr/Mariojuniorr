@@ -1,7 +1,3 @@
-<h1>
-    <img src="https://github.com/Mariojuniorr/Mariojuniorr/assets/70456527/0c7c1cb6-1ed5-405b-ab4f-a38da62e06da" width="150px" />
-</h1>
-
 <h2>About me</h2>
 <p>My name is Mário Júnior, I was born in Brazil and I am enthusiastic about becoming a programmer. I like to develop software and explore new technologies to solve problems. </p>
 
