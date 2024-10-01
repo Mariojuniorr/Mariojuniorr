@@ -1,7 +1,8 @@
-<div align="center">
+<div align="justify">
 <!--<h1 align="center" style="width:100;%">
 </h1>-->
-<p>Hi 👋, My name is Mário Júnior. I was born in Brazil and I am enthusiastic about becoming a programmer. I enjoy developing software and exploring new technologies to solve problems. 💻📱.</p>
+  <h1>Hi 👋, My name is Mário Júnior. </h1>
+<p>I was born in Brazil and I am enthusiastic about becoming a programmer. I enjoy developing software and exploring new technologies to solve problems. 💻📱.</p>
 <p>I have experience with payment acquirers/operators and I envision a future working in this field. Some of the things I like the most are learning something new each day and doing my best to grow in both, coding and the financial market.👨🏻‍💼</p>
 <p>I'm very happy that you visited my profile and I invite you to visit my portfolio: <a href="https://portfoliomario.infinityfreeapp.com/index.html?i=2" target="_blank" rel="noopener noreferrer">Click here</a>!</p>
   
@@ -31,5 +32,7 @@
 <div align="center">
   <a href = "mailto:marioluciosantosjunior@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/m%C3%A1rio-l%C3%BAcio-santos-ba2b211b6?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
  
 </div>
