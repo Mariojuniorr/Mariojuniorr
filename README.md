@@ -4,12 +4,9 @@
 <p>Hi 👋, My name is Mário Júnior. I was born in Brazil and I am enthusiastic about becoming a programmer. I enjoy developing software and exploring new technologies to solve problems. 💻📱.</p>
 <p>I have experience with payment acquirers/operators and I envision a future working in this field. Some of the things I like the most are learning something new each day and doing my best to grow in both, coding and the financial market.👨🏻‍💼</p>
 <p>I'm very happy that you visited my profile and I invite you to visit my portfolio: <a href="https://portfoliomario.infinityfreeapp.com/index.html?i=2" target="_blank" rel="noopener noreferrer">Click here</a>!</p>
-
   
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariojuniorr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
   <a href="https://github.com/Mariojuniorr">
   <img height="150em" src="https://c.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariojuniorr&layout=compact&langs_count=15&theme=codeSTACKr&count_private=true"/>
