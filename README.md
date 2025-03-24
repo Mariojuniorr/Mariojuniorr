@@ -4,6 +4,8 @@
   <h1>Hi 👋, My name is Mário Júnior. </h1>
 <p>I was born in Brazil and I am enthusiastic about becoming a programmer. I enjoy developing software and exploring new technologies to solve problems. 💻📱.</p>
 <p>I have experience with payment acquirers/operators and I envision a future working in this field. Some of the things I like the most are learning something new each day and doing my best to grow in both, coding and the financial market.👨🏻‍💼</p>
+ <p>Although you might not see many commits on my GitHub profile, it's important to mention that in my current job we use Azure Repos for version control, within the Azure DevOps ecosystem. As a result, most of my work is hosted in private repositories. 🔒💼</p>
+
 <p>I'm very happy that you visited my profile and I invite you to visit my portfolio: <a href="https://portfoliomario.infinityfreeapp.com/index.html?i=2" target="_blank" rel="noopener noreferrer">Click here</a>!</p>
   
 </div>
@@ -27,11 +29,13 @@
    <img align="center" alt="Ed-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Azure DevOps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
+
 </div>
 <br>
 <div align="center">
   <a href = "mailto:marioluciosantosjunior@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/m%C3%A1rio-l%C3%BAcio-santos-ba2b211b6?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/junioormario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
  
