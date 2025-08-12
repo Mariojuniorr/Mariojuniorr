@@ -6,7 +6,7 @@
 <p>I have experience with payment acquirers/operators and I envision a future working in this field. Some of the things I like the most are learning something new each day and doing my best to grow in both, coding and the financial market.👨🏻‍💼</p>
  <p>Although you might not see many commits on my GitHub profile, it's important to mention that in my current job we use Azure Repos for version control, within the Azure DevOps ecosystem. As a result, most of my work is hosted in private repositories. 🔒💼</p>
 
-<p>I'm very happy that you visited my profile and I invite you to visit my portfolio: <a href="https://portfoliomario.infinityfreeapp.com/index.html?i=2" target="_blank" rel="noopener noreferrer">Click here</a>!</p>
+<p>I'm very happy that you visited my profile and I invite you to visit my portfolio: <a href="https://porftfoliomario.vercel.app/" target="_blank" rel="noopener noreferrer">Click here</a>!</p>
   
 </div>
 <div align="center">
